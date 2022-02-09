@@ -3,7 +3,7 @@
 ```javascript
 const alan = {
   pronouns: "he" | "him",
-  code: [Golang, .net CORE, javascript],
+  code: [Golang, net Core, javascript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
 }
