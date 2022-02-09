@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```javascript
+const alan = {
+  pronouns: "he" | "him",
+  code: [Golang, .net CORE, javascript],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "design system pattern"],
+}
+```
+
+
 <!--
 **alan-muller-ar/alan-muller-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
