@@ -4,7 +4,7 @@
 const alan = {
   pronouns: "he" | "him",
   code: [Golang, .net, javascript],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Vue.js, gorm, Docker],
   architecture: ["microservices", "design system pattern"],
 }
 ```
