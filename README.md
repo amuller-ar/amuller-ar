@@ -2,9 +2,8 @@
 
 ```javascript
 const alan = {
-  pronouns: "he" | "him",
-  code: [Golang, .net, javascript],
-  tools: [Vue.js, gorm, Docker],
+  code: [Golang, .net],
+  tools: [EntityFramework, gorm, Docker],
   architecture: ["microservices", "design system pattern"],
 }
 ```
